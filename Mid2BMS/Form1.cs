@@ -11,8 +11,6 @@ using System.IO;
 using System.Threading.Tasks;
 using Codeplex.Data;
 using System.Text.RegularExpressions;  // DynamicJson
-//using System.Runtime.Serialization.Json;
-using System.Web;
 using System.Security.Cryptography;
 #if SILVERLIGHT
 using System.Windows;
