@@ -7,6 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mid2BMS", "Mid2BMS\Mid2BMS.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{72478BD1-F02D-4AFE-AE8B-06AF055DBE87}"
 	ProjectSection(SolutionItems) = preProject
+		TODO.md = TODO.md
 		パフォーマンス1.psess = パフォーマンス1.psess
 		パフォーマンス2.psess = パフォーマンス2.psess
 		パフォーマンス3.psess = パフォーマンス3.psess
