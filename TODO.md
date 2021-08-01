@@ -34,7 +34,7 @@ https://docs.microsoft.com/ja-jp/cpp/dotnet/walkthrough-compiling-a-cpp-program-
 
 ## Stage 5. マルチプラットフォーム化
 
-と言っても、実際にWindows以外で需要ありそうなのはMacOSぐらい？
+と言っても、実際にWindows以外で需要ありそうなのはMacOSぐらい？  
 LinuxはLinux対応のBMSエディタとBMSプレイヤーが出たら考える。
 
 ## Stage EX. さらなる高みへ
